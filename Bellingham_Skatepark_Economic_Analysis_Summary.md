@@ -15,10 +15,10 @@ This analysis evaluates the economic impact of a proposed public skatepark in Be
 
 ### 🎯 Key Recommendation
 **APPROVE AND PROCEED** with a **Medium-Size, Quality Skatepark** (17,000 sq ft)
-- **Total Investment:** $1,368,750
-- **Annual Economic Benefit:** $2,078,400 (Moderate scenario)
-- **Payback Period:** 2.6 years
-- **10-Year ROI:** 549%
+- **Total Investment:** $1,547,000
+- **Annual Economic Benefit:** $1,205,160 (Moderate scenario)
+- **Payback Period:** 1.3 years
+- **10-Year ROI:** 679%
 
 ---
 
@@ -134,20 +134,20 @@ The analysis applies different multipliers to reflect varying travel costs and u
   - High frequency of use reduces marginal utility
   - Lower opportunity costs for frequent users
 
-**Regional Visitors: $54.90 per day**
-- **Calculation:** $61.00 × 0.9 = $54.90
-- **Rationale:** 90% of TCM base value due to:
+**Regional Visitors: $55.00 per day**
+- **Calculation:** $55.00 × 1.0 = $55.00
+- **Rationale:** 100% of WA state average due to:
   - Moderate travel costs within 2-hour drive radius
   - Less frequent use than locals, higher per-visit value
-  - Comparable to established Travel Cost Model studies
+  - Represents typical outdoor recreation value for Washington residents
 
-**Tourists: $73.20 per day**
-- **Calculation:** $61.00 × 1.2 = $73.20
-- **Rationale:** 120% of TCM base value due to:
+**Tourists: $71.50 per day**
+- **Calculation:** $55.00 × 1.3 = $71.50
+- **Rationale:** 130% of WA state average due to:
   - Significant travel investment (flights, accommodation)
-  - Rare/unique experience value
+  - Rare/unique experience value for out-of-state visitors
   - Higher income demographics typically associated with long-distance travel
-  - Specialized destination choice indicating high willingness to pay
+  - Premium value for specialized destination choice
 
 ### User Volume Scenarios
 
@@ -176,9 +176,9 @@ The analysis applies different multipliers to reflect varying travel costs and u
 
 | Scenario | Users/Day | Annual Visits | Avg Daily Benefit | Annual Benefit |
 |----------|-----------|---------------|-------------------|----------------|
-| **Conservative** | 38 | 11,058 | $3,558 | $1,035,378 |
-| **Moderate** | 73 | 21,243 | $6,840 | $1,991,064 |
-| **Optimistic** | 120 | 34,920 | $11,256 | $3,275,536 |
+| **Conservative** | 38 | 12,540 | $1,864 | $615,285 |
+| **Moderate** | 73 | 24,090 | $3,652 | $1,205,160 |
+| **Optimistic** | 120 | 39,600 | $6,078 | $2,005,575 |
 
 ### Monthly Economic Impact Breakdown
 
@@ -237,7 +237,7 @@ The analysis reveals strong seasonal patterns with year-round economic benefits:
 | Size Category | Square Feet | Description |
 |---------------|-------------|-------------|
 | **Small** | 8,000 | Basic community park |
-| **Medium** | 15,000 | Regional destination |
+| **Medium** | 17,000 | Regional destination |
 | **Large** | 25,000 | Major destination park |
 
 ### ROI Analysis Results
@@ -286,7 +286,7 @@ The analysis reveals strong seasonal patterns with year-round economic benefits:
 
 ### Investment Recommendation
 
-**RECOMMENDED: Medium-Size, Quality Skatepark (15,000 sq ft)**
+**RECOMMENDED: Medium-Size, Quality Skatepark (17,000 sq ft)**
 
 **Moderate Scenario Projections:**
 - **Total Investment:** $1,365,000
@@ -372,7 +372,7 @@ The model tested sensitivity to key variables to understand risk factors and rob
 - Low risk profile with positive returns in most scenarios
 
 ### 2. OPTIMAL DESIGN SPECIFICATIONS
-- **Size:** 15,000 square feet (regional destination scale)
+- **Size:** 17,000 square feet (regional destination scale)
 - **Quality:** Mid-to-high tier construction ($65/sq ft)
 - **Features:** Weather protection for year-round use
 - **Location:** Accessible to both local and regional users

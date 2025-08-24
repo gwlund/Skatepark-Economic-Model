@@ -38,7 +38,7 @@ Explanation & Justification
 ROI and Community/Tourism Impact Takeaways
 	• Even with conservative visitor assumptions, Bellingham’s investment in a sizable public skatepark could yield $504,000/year in total economic impact.
 	• An optimistic but credible outlook would project nearly $2.7 million/year—on par with strong regional recreation or sports destinations.
-	• Return on Investment (ROI): With concrete skateparks costing $50–$75/sq.ft., a 15,000 sq.ft park ($750,000–$1,125,000 initial cost) could “pay for itself” in direct and indirect economic impacts within 1–2 years in the optimistic scenario, and within 2–4 years conservatively.
+	• Return on Investment (ROI): With concrete skateparks costing $50–$75/sq.ft., a 17,000 sq.ft park ($850,000–$1,275,000 initial cost) could “pay for itself” in direct and indirect economic impacts within 1–2 years in the optimistic scenario, and within 2–4 years conservatively.
 	• The model excludes youth and family benefits, event/festival revenues, health outcomes, or reputation/diversification, all of which would further augment the park’s value.
 
 Conclusion
