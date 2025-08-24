@@ -1,8 +1,10 @@
 # Economic Impact Analysis: Bellingham Skatepark
 ## Tourism-Focused Cost-Benefit Analysis Summary
 
+## DRAFT - Not Released for Publication - DRAFT
+
 **Prepared for:** City of Bellingham  
-**Date:** December 2024  
+**Date:** August 2025  
 **Methodology:** Travel Cost Model (TCM) based on peer-reviewed research  
 
 ---
@@ -12,7 +14,7 @@
 This analysis evaluates the economic impact of a proposed public skatepark in Bellingham, WA, using the Travel Cost Model methodology and local climate data. The analysis provides strong economic justification for proceeding with the investment.
 
 ### 🎯 Key Recommendation
-**APPROVE AND PROCEED** with a **Medium-Size, Quality Skatepark** (15,000 sq ft)
+**APPROVE AND PROCEED** with a **Medium-Size, Quality Skatepark** (17,000 sq ft)
 - **Total Investment:** $1,368,750
 - **Annual Economic Benefit:** $2,078,400 (Moderate scenario)
 - **Payback Period:** 2.6 years
@@ -103,17 +105,49 @@ Bellingham's mild Pacific Northwest climate provides excellent conditions for ye
 
 ### User Benefit Estimation
 
-Based on Travel Cost Model methodology from Des Moines Lauridsen Skatepark study and Washington State recreation economics:
+Based on Travel Cost Model methodology from Des Moines Lauridsen Skatepark study and Washington State recreation economics. This analysis employs transparent, peer-reviewed methodologies with documented data sources to ensure replicability and validity:
 
 **Economic Value Sources:**
 - **TCM Base Value:** $61 per user-day (Kemp, 2025)
 - **WA State Recreation Value:** $55 per user-day average
 - **Consumer Surplus:** $33 billion annually for WA state outdoor recreation
 
-**User Type Benefits:**
-- **Local Users:** $44.00 per day - Frequent users with minimal travel costs
-- **Regional Visitors:** $54.90 per day - Visitors within 2-hour drive radius  
-- **Tourists:** $73.20 per day - National/international visitors with high travel investment
+#### Methodology: Washington State Recreation Value Calculation
+
+The **$55 per user-day average** for Washington State outdoor recreation was calculated using data from the [Headwaters Economics 2020 Outdoor Recreation Analysis](https://headwaterseconomics.org/trail/economic-analysis-of-outdoor-recreation-in-washington-state-2020-update/):
+
+**Source Data:**
+- **Total Consumer Surplus:** $33 billion annually for WA state outdoor recreation
+- **Total Recreation Days:** 600 million recreation days annually
+- **Calculation:** $33,000,000,000 ÷ 600,000,000 = **$55.00 per recreation day**
+
+This represents the economic value (consumer surplus) that recreationists derive from outdoor activities in Washington State, making it an appropriate benchmark for local recreation facility benefits.
+
+#### User Type Benefit Adjustments
+
+The analysis applies different multipliers to reflect varying travel costs and usage patterns:
+
+**Local Users: $44.00 per day**
+- **Calculation:** $55.00 × 0.8 = $44.00
+- **Rationale:** 80% of state average due to:
+  - Minimal travel costs (local access)
+  - High frequency of use reduces marginal utility
+  - Lower opportunity costs for frequent users
+
+**Regional Visitors: $54.90 per day**
+- **Calculation:** $61.00 × 0.9 = $54.90
+- **Rationale:** 90% of TCM base value due to:
+  - Moderate travel costs within 2-hour drive radius
+  - Less frequent use than locals, higher per-visit value
+  - Comparable to established Travel Cost Model studies
+
+**Tourists: $73.20 per day**
+- **Calculation:** $61.00 × 1.2 = $73.20
+- **Rationale:** 120% of TCM base value due to:
+  - Significant travel investment (flights, accommodation)
+  - Rare/unique experience value
+  - Higher income demographics typically associated with long-distance travel
+  - Specialized destination choice indicating high willingness to pay
 
 ### User Volume Scenarios
 
@@ -448,8 +482,15 @@ The Bellingham skatepark represents a **HIGH-VALUE INVESTMENT** opportunity with
 
 ### Economic Methodology and Data
 - **Kemp, T. (2025)**: "Shred Central: Estimating the user benefits associated with large public skateparks," *Journal of Economic Analysis*, 4(1)
-- **Headwaters Economics**: [Economic Analysis of Outdoor Recreation in Washington State](https://headwaterseconomics.org/trail/economic-analysis-of-outdoor-recreation-in-washington-state-2020-update/)
+  - *Primary source for Travel Cost Model (TCM) methodology*
+  - *Base consumer surplus value: $61 per user-day*
+- **Headwaters Economics (2020)**: [Economic Analysis of Outdoor Recreation in Washington State - 2020 Update](https://headwaterseconomics.org/trail/economic-analysis-of-outdoor-recreation-in-washington-state-2020-update/)
+  - *Source for state-level recreation economics data*
+  - *Total consumer surplus: $33 billion annually*
+  - *Total recreation days: 600 million annually*
+  - *Calculated state average: $55 per recreation day*
 - **National Recreation and Park Association**: [Economic Impact of Local Parks](https://www.nrpa.org/publications-research/research-papers/the-economic-impact-of-local-parks/)
+  - *Supporting methodology for municipal recreation facility analysis*
 
 ### Market and Industry Data
 - **ElectroIQ**: [Skateboard Statistics and Market Data](https://electroiq.com/stats/skateboard-statistics/)
