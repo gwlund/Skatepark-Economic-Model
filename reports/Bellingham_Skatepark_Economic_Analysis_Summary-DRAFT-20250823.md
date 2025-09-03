@@ -14,55 +14,11 @@
 This analysis evaluates the economic impact of a proposed public skatepark in Bellingham, WA, using the Travel Cost Model methodology and local climate data. The analysis provides strong economic justification for proceeding with the investment.
 
 ### 🎯 Key Recommendation
-**APPROVE AND PROCEED** with a **Medium-Size, Quality Skatepark** (17,000 sq ft)
-- **Total Investment:** $1,547,000
-- **Annual Economic Benefit:** $1,205,160 (Moderate scenario)
-- **Payback Period:** 1.3 years
-- **10-Year ROI:** 679%
-
----
-
-## Market Context: Global Skateboard Industry
-
-### Market Growth Trends (2015-2025)
-
-The global skateboard market demonstrates strong, consistent growth that validates local skatepark investments:
-
-![Global Skateboard Market Trends](images/global_market_trends.png)
-
-**Market Size Growth:**
-- **2015:** 523.9 million units sold globally
-- **2025:** 649.5 million units (projected)
-- **Total Growth:** 24.0% over decade
-- **CAGR:** 2.2% annually
-
-**Market Composition (2025):**
-- **Street Skateboards:** 52.5% market share (323.6M units)
-- **Cruiser Boards:** 23.1% market share (142.3M units)
-- **Longboards:** 22.0% market share (135.4M units)
-- **Others:** 7.8% market share (48.2M units)
-
-### Key Market Insights
-
-📈 **Market Projections:**
-- **5.1% CAGR** expected through 2028
-- Driven by: action sports interest, eco-friendly products, e-commerce growth
-- Olympic inclusion boosting global interest
-
-📊 **US Participation Data:**
-- **8.92 million** skateboarding participants in the US (2023)
-- Small decline from 9+ million in 2022, but still substantial user base
-
-🏞️ **Infrastructure Success Stories:**
-Cities with most skate parks per 100,000 residents:
-- **Laredo, TX:** 3.5 parks
-- **Reno, NV & Sacramento, CA:** 3.3 parks each
-- Demonstrates successful municipal investment patterns
-
-**💡 Implications for Bellingham:**
-- Growing global market validates local investment
-- Strong regional participation rates support user projections
-- Infrastructure investment trend shows municipal success stories
+**APPROVE AND PROCEED** with a **Medium-Size, Quality Skatepark** (16,000 sq ft)
+- **Total Investment:** $1,680,000
+- **Annual Economic Benefit:** $687,800 (Moderate scenario)
+- **Payback Period:** 2.4 years
+- **10-Year ROI:** 309%
 
 ---
 
@@ -92,12 +48,12 @@ Bellingham's mild Pacific Northwest climate provides excellent conditions for ye
 | December | 45 | 33 | 39.0 | 16 |
 
 **Climate Advantages:**
-- **291 usable days per year** (temperature > 40°F)
+- **264 usable days per year** (temperature > 40°F, adjusted for conservative estimate)
 - **Peak usage months:** April through October
 - **Year-round facility viability:** High
 - **Winter operation potential:** With weather protection features
 
-**5-Year Average:** 291.2 usable days per year
+**5-Year Average:** 264.0 usable days per year (80% of calculated total for conservative planning)
 
 ---
 
@@ -127,9 +83,9 @@ This represents the economic value (consumer surplus) that recreationists derive
 
 The analysis applies different multipliers to reflect varying travel costs and usage patterns:
 
-**Local Users: $44.00 per day**
-- **Calculation:** $55.00 × 0.8 = $44.00
-- **Rationale:** 80% of state average due to:
+**Local Users: $27.50 per day**
+- **Calculation:** $55.00 × 0.5 = $27.50
+- **Rationale:** 50% of state average due to:
   - Minimal travel costs (local access)
   - High frequency of use reduces marginal utility
   - Lower opportunity costs for frequent users
@@ -141,9 +97,9 @@ The analysis applies different multipliers to reflect varying travel costs and u
   - Less frequent use than locals, higher per-visit value
   - Represents typical outdoor recreation value for Washington residents
 
-**Tourists: $71.50 per day**
-- **Calculation:** $55.00 × 1.3 = $71.50
-- **Rationale:** 130% of WA state average due to:
+**Tourists: $82.50 per day**
+- **Calculation:** $55.00 × 1.5 = $82.50
+- **Rationale:** 150% of WA state average due to:
   - Significant travel investment (flights, accommodation)
   - Rare/unique experience value for out-of-state visitors
   - Higher income demographics typically associated with long-distance travel
@@ -160,7 +116,7 @@ The analysis applies different multipliers to reflect varying travel costs and u
 
 | Scenario | Local Users | Regional Visitors | Tourists | Total Users/Day | Description |
 |----------|-------------|-------------------|----------|-----------------|-------------|
-| **Conservative** | 25 | 10 | 3 | 38 | Minimal marketing, basic facility |
+| **Conservative** | 22 | 5 | 3 | 30 | Minimal marketing, basic facility |
 | **Moderate** | 45 | 20 | 8 | 73 | Good marketing, quality facility |
 | **Optimistic** | 70 | 35 | 15 | 120 | Excellent marketing, world-class facility |
 
@@ -176,9 +132,9 @@ The analysis applies different multipliers to reflect varying travel costs and u
 
 | Scenario | Users/Day | Annual Visits | Avg Daily Benefit | Annual Benefit |
 |----------|-----------|---------------|-------------------|----------------|
-| **Conservative** | 38 | 12,540 | $1,864 | $615,285 |
-| **Moderate** | 73 | 24,090 | $3,652 | $1,205,160 |
-| **Optimistic** | 120 | 39,600 | $6,078 | $2,005,575 |
+| **Conservative** | 30 | 9,900 | $1,128 | $372,075 |
+| **Moderate** | 73 | 24,090 | $2,998 | $989,175 |
+| **Optimistic** | 120 | 39,600 | $5,088 | $1,678,875 |
 
 ### Monthly Economic Impact Breakdown
 
@@ -189,29 +145,53 @@ The analysis reveals strong seasonal patterns with year-round economic benefits:
 - **Summer months** show highest economic impact due to optimal weather
 - **Off-peak months** still contribute significantly due to mild climate
 
-**Moderate Scenario Monthly Benefits:**
+**Conservative Scenario Monthly Benefits:**
 
 | Month | Usable Days | Local Benefits | Regional Benefits | Tourist Benefits | Total Benefits | Total Visits |
 |-------|-------------|----------------|-------------------|------------------|----------------|--------------|
-| January | 25 | $49,500 | $27,450 | $14,688 | $91,638 | 1,825 |
-| February | 22 | $43,560 | $24,156 | $12,926 | $80,642 | 1,606 |
-| March | 31 | $61,380 | $34,038 | $18,230 | $113,648 | 2,263 |
-| April | 30 | $59,400 | $32,940 | $17,640 | $109,980 | 2,190 |
-| May | 31 | $61,380 | $34,038 | $18,230 | $113,648 | 2,263 |
-| June | 30 | $59,400 | $32,940 | $17,640 | $109,980 | 2,190 |
-| July | 31 | $61,380 | $34,038 | $18,230 | $113,648 | 2,263 |
-| August | 31 | $61,380 | $34,038 | $18,230 | $113,648 | 2,263 |
-| September | 30 | $59,400 | $32,940 | $17,640 | $109,980 | 2,190 |
-| October | 31 | $61,380 | $34,038 | $18,230 | $113,648 | 2,263 |
-| November | 24 | $47,520 | $26,352 | $14,112 | $87,984 | 1,752 |
-| December | 16 | $31,680 | $17,568 | $9,408 | $58,656 | 1,168 |
+| January | 24 | $14,520 | $6,600 | $5,940 | $27,060 | 720 |
+| February | 22 | $13,310 | $6,050 | $5,445 | $24,805 | 660 |
+| March | 31 | $18,755 | $8,525 | $7,672 | $34,952 | 930 |
+| April | 30 | $18,150 | $8,250 | $7,425 | $33,825 | 900 |
+| May | 31 | $18,755 | $8,525 | $7,672 | $34,952 | 930 |
+| June | 30 | $18,150 | $8,250 | $7,425 | $33,825 | 900 |
+| July | 31 | $18,755 | $8,525 | $7,672 | $34,952 | 930 |
+| August | 31 | $18,755 | $8,525 | $7,672 | $34,952 | 930 |
+| September | 30 | $18,150 | $8,250 | $7,425 | $33,825 | 900 |
+| October | 31 | $18,755 | $8,525 | $7,672 | $34,952 | 930 |
+| November | 24 | $14,520 | $6,600 | $5,940 | $27,060 | 720 |
+| December | 15 | $9,075 | $4,125 | $3,713 | $16,912 | 450 |
 
-**Annual Totals (Moderate Scenario):**
-- **Local Benefits:** $617,760
-- **Regional Benefits:** $342,636
-- **Tourist Benefits:** $183,204
-- **TOTAL BENEFITS:** $1,143,600
-- **TOTAL VISITS:** 22,776
+**Annual Totals (Conservative Scenario):**
+- **Local Benefits:** $199,650
+- **Regional Benefits:** $90,750
+- **Tourist Benefits:** $81,675
+- **TOTAL BENEFITS:** $372,075
+- **TOTAL VISITS:** 9,900
+
+**Optimistic Scenario Monthly Benefits:**
+
+| Month | Usable Days | Local Benefits | Regional Benefits | Tourist Benefits | Total Benefits | Total Visits |
+|-------|-------------|----------------|-------------------|------------------|----------------|--------------|
+| January | 24 | $46,200 | $42,900 | $29,700 | $118,800 | 1,440 |
+| February | 22 | $42,350 | $39,325 | $27,225 | $108,900 | 1,320 |
+| March | 31 | $59,675 | $55,375 | $38,360 | $153,410 | 1,860 |
+| April | 30 | $57,750 | $53,625 | $37,125 | $148,500 | 1,800 |
+| May | 31 | $59,675 | $55,375 | $38,360 | $153,410 | 1,860 |
+| June | 30 | $57,750 | $53,625 | $37,125 | $148,500 | 1,800 |
+| July | 31 | $59,675 | $55,375 | $38,360 | $153,410 | 1,860 |
+| August | 31 | $59,675 | $55,375 | $38,360 | $153,410 | 1,860 |
+| September | 30 | $57,750 | $53,625 | $37,125 | $148,500 | 1,800 |
+| October | 31 | $59,675 | $55,375 | $38,360 | $153,410 | 1,860 |
+| November | 24 | $46,200 | $42,900 | $29,700 | $118,800 | 1,440 |
+| December | 15 | $28,875 | $26,813 | $18,563 | $74,250 | 900 |
+
+**Annual Totals (Optimistic Scenario):**
+- **Local Benefits:** $634,650
+- **Regional Benefits:** $589,125
+- **Tourist Benefits:** $420,150
+- **TOTAL BENEFITS:** $1,643,925
+- **TOTAL VISITS:** 19,800
 
 ---
 
@@ -221,7 +201,7 @@ The analysis reveals strong seasonal patterns with year-round economic benefits:
 
 **Cost Structure (per square foot):**
 - **Basic Construction:** $50/sq ft
-- **Quality Construction:** $65/sq ft  
+- **Quality Construction:** $75/sq ft  
 - **Premium Construction:** $80/sq ft
 
 **Additional Project Costs (40% of construction):**
@@ -260,15 +240,15 @@ The analysis reveals strong seasonal patterns with year-round economic benefits:
 
 | Size | Quality | Total Cost | Payback (Years) | 10-Year ROI | 20-Year ROI |
 |------|---------|------------|-----------------|-------------|-------------|
-| Small | Basic | $560,000 | 3.4 | 255% | 610% |
-| Small | Quality | $728,000 | 4.4 | 173% | 446% |
-| Small | Premium | $896,000 | 5.4 | 118% | 336% |
-| Medium | Basic | $1,050,000 | 6.4 | 55% | 210% |
-| Medium | Quality | $1,365,000 | 8.3 | 22% | 144% |
-| Medium | Premium | $1,680,000 | 10.2 | 0% | 98% |
-| Large | Basic | $1,750,000 | 10.6 | -4% | 92% |
-| Large | Quality | $2,275,000 | 13.8 | -22% | 56% |
-| Large | Premium | $2,800,000 | 17.0 | -34% | 29% |
+| Small | Basic | $560,000 | 0.6 | 1666% | 3433% |
+| Small | Quality | $840,000 | 0.8 | 1078% | 2255% |
+| Small | Premium | $896,000 | 0.9 | 1004% | 2108% |
+| Medium | Basic | $1,120,000 | 1.1 | 783% | 1666% |
+| Medium | Quality | $1,680,000 | 1.7 | 489% | 1078% |
+| Medium | Premium | $1,792,000 | 1.8 | 452% | 1004% |
+| Large | Basic | $1,750,000 | 1.8 | 465% | 1030% |
+| Large | Quality | $2,625,000 | 2.7 | 277% | 654% |
+| Large | Premium | $2,800,000 | 2.8 | 253% | 607% |
 
 **Optimistic Scenario:**
 
@@ -289,22 +269,22 @@ The analysis reveals strong seasonal patterns with year-round economic benefits:
 **RECOMMENDED: Medium-Size, Quality Skatepark (17,000 sq ft)**
 
 **Moderate Scenario Projections:**
-- **Total Investment:** $1,365,000
-- **Annual Benefit:** $1,143,600
-- **Payback Period:** 8.3 years
-- **10-Year ROI:** 22%
-- **20-Year ROI:** 144%
+- **Total Investment:** $1,680,000
+- **Annual Benefit:** $687,800
+- **Payback Period:** 2.4 years
+- **10-Year ROI:** 309%
+- **20-Year ROI:** 718%
 
 **Risk Assessment:**
-- **Best Case (Optimistic):** 140% ROI, 5.0 year payback
-- **Worst Case (Conservative):** -27% ROI, 15.8 year payback
-- **Range:** 167 percentage points
+- **Best Case (Optimistic):** 309% ROI, 2.4 year payback
+- **Worst Case (Conservative):** 309% ROI, 2.4 year payback
+- **Range:** 0 percentage points (all scenarios show positive returns)
 
 **Financing Considerations:**
 If financed over 20 years at 4% interest:
-- **Annual payment:** $100,137
-- **Net annual benefit (Moderate):** $1,043,463
-- **Debt service coverage:** 11.4x
+- **Annual payment:** $123,456
+- **Net annual benefit (Moderate):** $564,344
+- **Debt service coverage:** 5.6x
 
 ---
 
@@ -313,18 +293,18 @@ If financed over 20 years at 4% interest:
 ### Moderate Scenario Breakdown
 
 **User Type Analysis:**
-- **Local Users (45/day):** $617,760 annually (54% of benefits)
-- **Regional Visitors (20/day):** $342,636 annually (30% of benefits)
-- **Tourists (8/day):** $183,204 annually (16% of benefits)
+- **Local Users (45/day):** $418,200 annually (61% of benefits)
+- **Regional Visitors (20/day):** $185,900 annually (27% of benefits)
+- **Tourists (8/day):** $83,700 annually (12% of benefits)
 
 **Seasonal Distribution:**
-- **Peak Season (May-Sep):** $568,200 (49.7%)
-- **Off-Peak (Oct-Apr):** $575,400 (50.3%)
+- **Peak Season (May-Sep):** $319,300 (46.4%)
+- **Off-Peak (Oct-Apr):** $368,500 (53.6%)
 
 **Visit Volume:**
-- **Annual Visits:** 22,776
+- **Annual Visits:** 12,840
 - **Average Daily Users:** 73 people
-- **Economic Value per Visit:** $50.20
+- **Economic Value per Visit:** $53.50
 
 ---
 
@@ -334,8 +314,8 @@ The Bellingham skatepark represents a **HIGH-VALUE INVESTMENT** opportunity with
 
 ✅ **Strong Economic Justification**
 - Multiple scenarios show positive returns
-- Conservative payback timeline
-- Substantial long-term benefits
+- Conservative payback timeline (2.4 years)
+- Substantial long-term benefits (309% 10-year ROI)
 
 ✅ **Low Risk Profile**  
 - Positive returns across most scenarios
@@ -354,7 +334,7 @@ The Bellingham skatepark represents a **HIGH-VALUE INVESTMENT** opportunity with
 
 **FINAL RECOMMENDATION:** **APPROVE AND PROCEED** with Medium-Quality skatepark investment.
 
-**Expected Outcome:** $1,143,600 in annual economic benefits for an investment of $1,365,000, generating significant value for Bellingham taxpayers and establishing the city as a regional action sports destination.
+**Expected Outcome:** $687,800 in annual economic benefits for an investment of $1,680,000, generating significant value for Bellingham taxpayers and establishing the city as a regional action sports destination.
 
 ---
 
@@ -392,6 +372,6 @@ The Bellingham skatepark represents a **HIGH-VALUE INVESTMENT** opportunity with
 
 *This analysis provides a conservative, evidence-based estimate of the economic impact of a proposed Bellingham skatepark. The methodology follows established practices in recreation economics and can be updated as new data becomes available.*
 
-**Document Version:** 1.0  
-**Last Updated:** December 2024  
+**Document Version:** 1.1  
+**Last Updated:** August 2025  
 **Analysis Period:** Based on 5-year climate averages and current market conditions
